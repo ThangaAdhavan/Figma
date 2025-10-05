@@ -34,12 +34,11 @@ Figma
 
 ## CODE:
 ```
-Figma - (Design - Text)
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/tt0u0UvVCYsB5YU1WURE1r/Untitled?node-id=0-1&embed-host=share" allowfullscreen></iframe>
-<a href="https://www.figma.com/proto/tt0u0UvVCYsB5YU1WURE1r/Untitled?node-id=4-5&t=bacQus9UxMtHmHtZ-1">
+<a href="https://www.figma.com/design/tt0u0UvVCYsB5YU1WURE1r/Untitled?node-id=0-1&m=dev&t=bacQus9UxMtHmHtZ-1">Tab Mode</a>
 ```
 ## OUTPUT:
-![alt text](<Figma/Figmaapp/migrations/static/Screenshot 2025-10-05 135745.png>)
+![alt text](<Figma/Figmaapp/static/Screenshot (7).png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
